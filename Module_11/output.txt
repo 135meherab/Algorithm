@@ -1,0 +1,12 @@
+0 2 6 x x 
+x 0 1 x 3 
+x x 0 4 x 
+x 6 x 0 x 
+x x x 9 0 
+
+after floyd warshall: 
+0 2 3 7 5 
+x 0 1 5 3 
+x 10 0 4 13 
+x 6 7 0 9 
+x 15 16 9 0 
